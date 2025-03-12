@@ -1,0 +1,98 @@
+<resources>
+    <string name="app_name">BeautyFresh</string>
+    <string name="title_activity_home">Home</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+    <string name="menu_tools">Tools</string>
+    <string name="menu_share">Share</string>
+    <string name="menu_send">Send</string>
+    <string name="shopname">Online Cosmetic Shop</string>
+    <string name="email">beautyfresh.com</string>
+    <string name="shippingdetails">Shipment Details</string>
+    <string name="shippingfname">First Name</string>
+    <string name="shippinglname">Last Name</string>
+    <string name="sippingaddress1">Address</string>
+    <string name="shippingphoneno">Phone No</string>
+    <string name="shippingsave"><![CDATA[Save & Continue]]></string>
+
+    <string name="shippingUDfname">First Name</string>
+    <string name="shippingudlname">Last Name</string>
+    <string name="shippingfnameUD">First Name</string>
+    <string name="shippinglnameUD">Last Name</string>
+    <string name="shippingaddressUD">Address</string>
+    <string name="shippingPhoneNoUD">Phone No</string>
+    <string name="shippingupdate">Update</string>
+    <string name="shippingDelete">Delete</string>
+    <string name="shippingplaceorder">Place Order</string>
+    <string name="paymentshipping">Payment  Details</string>
+    <string name="Pay">Pay</string>
+    <string name="Reset">Reset</string>
+    <string name="viewcart">View Cart</string>
+    <string name="buyNow">Buy Now</string>
+    <string name="paymentmethod">Select Payment Method</string>
+    <string name="creditcard">Credit</string>
+    <string name="CardNo">Card Number</string>
+    <string name="Validuntil">Valid Until</string>
+    <string name="CVV">CVV</string>
+    <string name="PaymentforOrder">Payment Details</string>
+    <string name="confrimpro">Proceed to confirm</string>
+    <string name="CardNoPay">Card Number</string>
+    <string name="Validuntiill">Valid Untill</string>
+    <string name="CVV1">CVV</string>
+    <string name="Cardholder">Card Holder</string>
+    <string name="Cardhint">**** **** **** ****</string>
+    <string name="ValidMoth">Month / Year</string>
+    <string name="CVVii">***</string>
+    <string name="Holder">Your name and surname</string>
+    <string name="Debitcard">Visa Card</string>
+    <string name="CreditCard">Master</string>
+    <string name="DebitCard">Master</string>
+    <string name="master">Master Card</string>
+    <string name="MasterCard">Master Card</string>
+    <string name="VisaCard">Visa Card</string>
+
+    <string name="password">Password</string>
+    <string name="createAcc">Create Account</string>
+    <string name="login">Login</string>
+    <string name="user_email">Email</string>
+    <string name="address">Address</string>
+    <string name="phonenumber">Phone Number</string>
+    <string name="userprofile">User Profile</string>
+    <string name="dateOfbirth">Date Of Birth</string>
+    <string name="pssword">Password</string>
+    <string name="username">User Name</string>
+    <string name="male">Male</string>
+    <string name="female">Female</string>
+    <string name="add">Add</string>
+    <string name="update_profile">Update Profile</string>
+    <string name="edit_profile">Edit Profile</string>
+    <string name="search">Search</string>
+    <string name="edit">Edit</string>
+    <string name="delete">Delete</string>
+    <string name="gender">Gender</string>
+    <string name="register">Register</string>
+    <string name="home">Home</string>
+    <string name="shippingfnamehint">first name</string>
+    <string name="shippinglanamehint">last name</string>
+    <string name="shippingaddressline1hint">address line 1</string>
+    <string name="shippingaddressline2hint">address line 2</string>
+    <string name="shippingphone1hint">contact number</string>
+    <string name="save">Save</string>
+    <string name="update">Update</string>
+    <string name="adminlo">Login</string>
+
+    <string-array name="UserType">
+        <item>User</item>
+        <item>Admin</item>
+    </string-array>
+
+
+</resources>

@@ -45,4 +45,4 @@ This project is designed to help cosmetics store owners manage their business op
 ### Requirements to Execute the Project
 
 * Android Studio 8.7.3
-
+* SDK : distributionUrl=https\://services.gradle.orgstributions/gradle-8.9-bin.zip
